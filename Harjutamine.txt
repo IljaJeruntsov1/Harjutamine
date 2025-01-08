@@ -1,0 +1,1 @@
+GitHubi saan kasutada projektide salvestamiseks ja versioonikontrolli haldamiseks. Lisaks võimaldab see jagada koodi ja teha koostööd teiste arendajatega.
